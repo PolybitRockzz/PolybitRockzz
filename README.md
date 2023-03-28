@@ -10,7 +10,11 @@
   <code>Digital Explorer & Entrepreneur</code>
 </p>
 
-
+<p align="center">
+  <a href="https://instagram.com/swastik_polybit_biswas" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram (swastik_polybit_biswas)"/></a>
+  <a href="https://twitter.com/ImSwastikBiswas" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter (ImSwastikBiswas)"/></a>
+  <a href="https://www.linkedin.com/in/swastik-polybit-biswas/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (swastik_polybit_biswas)"/></a>
+ </p>
 
 <p align="center">
   <picture>

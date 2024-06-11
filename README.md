@@ -1,5 +1,3 @@
-<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
-
 <p align="center">
   <a href="https://swastik.rocks/">
     <h1 align="center">Hello World! I'm Swastik Biswas. 🌎</h1>
@@ -7,7 +5,7 @@
 </p>
 
 <p align="center">
-  <code>Digital Explorer & Entrepreneur</code>
+  <code><strong>Programmer and Entrepreneur</strong></code>
 </p>
 
 <p align="center">
@@ -19,11 +17,11 @@
 <p align="center">
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true&theme=dark&bg_color=161B22&icon_color=4DAAFC"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true&bg_color=161B22&icon_color=4DAAFC"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PolybitRockzz&show_icons=true" />
@@ -33,59 +31,51 @@
 <details open> 
   <summary><h2 align="center">📘 My Top Open Source Projects</h2></summary>
   <p align="center">
-    <a href="https://github.com/PolybitRockzz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=portfolio&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
-    <a href="https://github.com/PolybitRockzz/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=coffee-java-ide&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
-    <a href="https://github.com/PolybitRockzz/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PolybitRockzz&repo=downloads-segregator&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
-    <a href="https://github.com/PolybitRockzz/jarvis-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=jarvis-desktop&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="jarvis-desktop"></a>
-    <a href="https://github.com/PolybitRockzz/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=checkward-desktop&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
-    <a href="https://github.com/PolybitRockzz/dpsm-bus-brake-sensor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=dpsm-bus-brake-sensor&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dpsm-bus-brake-sensor"></a>
+    <a href="https://github.com/PolybitRockzz/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=portfolio&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
+    <a href="https://github.com/The-Octran-Group/tenet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Octran-Group&repo=tenet&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="tenet"></a>
+    <a href="https://github.com/PolybitRockzz/coffee-java-ide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=coffee-java-ide&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-java-ide"></a>
+    <a href="https://github.com/PolybitRockzz/downloads-segregator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PolybitRockzz&repo=downloads-segregator&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="downloads-segregator"></a>
+    <a href="https://github.com/PolybitRockzz/jarvis-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=jarvis-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="jarvis-desktop"></a>
+    <a href="https://github.com/PolybitRockzz/checkward-desktop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PolybitRockzz&repo=checkward-desktop&theme=dark&bg_color=161B22&title_color=4DAAFC&hide_border=true&icon_color=F8D866&show_icons=false" alt="checkward-desktop"></a>
   </p>
 
-  <p align="center"><a href="https://github.com/PolybitRockzz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
+  <p align="center"><a href="https://github.com/PolybitRockzz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </details>
 
 <details open>
-  <summary><h2 align="center">📚 My Best Skills</h2></summary>
+  <summary><h2 align="center">🏅 My Best Skills</h2></summary>
   <h3 align="center">Programming Languages</h3>
-  <p align="center">
-    Core Java (Loop Control, MultiThreading, GUI, etx.)<br/>
-    Core Python (Loop Control, Data Management, etx.)<br/>
-    HTML5, CSS3, JavaScript<br/>
-    React.JS, Next.JS<br/>
-  </p>
-  <h3 align="center">School Subjects</h3>
-  <p align="center">
-    Pure Mathematics & Precalculus (IIT-JEE)</br>
-    Theoretical & Applied Physics</br>
-    Organic Chemistry</br>
-    Applied Computer Science & Applications</br>
-  </p>
+  <div align="center">
+    <p>
+      Java, Python, C<br/>
+      HTML, CSS<br/>
+      Next.js<br/>
+    </p>
+    <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5&theme=dark&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5" />
+    </picture>
+  </div>
  </details>
  
  <details>
-  <summary><h2 align="center">🏅 Honorary Awards & Accomplishments</h2></summary>
+  <summary><h2 align="center">📚 Education & Certifications</h2></summary>
+  <h3 align="center">Indian School Certificate Examinations 2024</h3>
+  <p align="center">
+    Total Score: 90.23%</br>
+    Streams: Mathematics, Physics, Chemistry,<br/> English, Computer Science</br>
+  </p>
   <h3 align="center">Indian Certificate of Secondary Education Examinations 2022</h3>
   <p align="center">
     Total Score: 95.4%</br>
-    Streams: Applied Science & English</br>
-  </p>
-  <h3 align="center">3rd Place in Cathcon 2022</h3>
-  <p align="center">
-    Rank: 3rd Place</br>
-    Event Type: Competitive Coding Hackathon</br>
-    Host: The Cathedral and John Connon School</br>
-  </p>
-  <h3 align="center">1st Place in Entremit 2023</h3>
-  <p align="center">
-    Rank: 1st Place</br>
-    Event Type: Business Idea Sales Pitch Contest</br>
-    Host: Student Outreach, Small Cottage Scale Industries Association</br>
-  </p>
-  <h3 align="center">1st Place in Manthan 2022</h3>
-  <p align="center">
-    Rank: 1st Place</br>
-    Event Type: Competitive Coding Hackathon</br>
-    Host: Modern High Girl's School</br>
+    Streams: Mathematics, Science (PCB),<br/> English, History & Civics, Geography,<br/> Computer Applications,<br/> 2nd Language</br>
   </p>
  </details>
 

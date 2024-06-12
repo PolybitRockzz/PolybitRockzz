@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://swastik.rocks/">
-    <h1 align="center">Hello World! I'm Swastik Biswas. 🌎</h1>
+    <h1 align="center">Hello World! <strong>I'm Swastik Biswas.</strong> 🌎</h1>
   </a>
 </p>
 
@@ -45,12 +45,27 @@
 <details open>
   <summary><h2 align="center">🏅 My Best Skills</h2></summary>
   <h3 align="center">Programming Languages</h3>
-  <div align="center">
-    <p>
-      Java, Python, C<br/>
-      HTML, CSS<br/>
-      Next.js<br/>
-    </p>
+  <div align="center" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
+    <ul>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>ㅤ(High School, since 2020)<br/>
+      </li>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>ㅤ(Self-taught, since 2021)<br/>
+      </li>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>ㅤ(Self-taught, since 2024)<br/>
+      </li>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>ㅤ(Self-taught, since 2018)<br/>
+      </li>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>ㅤ(Self-taught, since 2018)<br/>
+      </li>
+      <li style="margin: 0.25rem 0; display: flex; flex-direction: row; justify-content: left; align-items: center;">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>ㅤ(Self-taught, since 2023)<br/>
+      </li>
+    </ul>
     <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PolybitRockzz&langs_count=5&theme=dark&bg_color=161B22&icon_color=4DAAFC&hide_border=true"
@@ -69,13 +84,13 @@
   <summary><h2 align="center">📚 Education & Certifications</h2></summary>
   <h3 align="center">Indian School Certificate Examinations 2024</h3>
   <p align="center">
-    Total Score: 90.23%</br>
-    Streams: Mathematics, Physics, Chemistry,<br/> English, Computer Science</br>
+    <strong>Total Score:</strong> 90.23%</br>
+    <strong>Streams:</strong> Mathematics, Physics, Chemistry,<br/> English, Computer Science</br>
   </p>
   <h3 align="center">Indian Certificate of Secondary Education Examinations 2022</h3>
   <p align="center">
-    Total Score: 95.4%</br>
-    Streams: Mathematics, Science (PCB),<br/> English, History & Civics, Geography,<br/> Computer Applications,<br/> 2nd Language</br>
+    <strong>Total Score:</strong> 95.4%</br>
+    <strong>Streams:</strong> Mathematics, Science (PCB),<br/> English, History & Civics, Geography,<br/> Computer Applications,<br/> 2nd Language</br>
   </p>
  </details>
 
